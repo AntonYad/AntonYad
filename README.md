@@ -9,8 +9,8 @@ AntonYad/AntonYad is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 [![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton)](https://github.com/anuraghazra/github-readme-stats)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&hide=contribs,prstheme=radical)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&show_icons=true&theme=radical)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&count_private=truetheme=radical)
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&show_icons=true&theme=radical)
 
