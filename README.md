@@ -8,9 +8,9 @@
 AntonYad/AntonYad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton)](https://github.com/anuraghazra/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&hide=contribs,prstheme=radical)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&show_icons=true&theme=radical)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&count_private=truetheme=radical)
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton&show_icons=true&theme=radical)
+[![AntonYad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYad)](https://github.com/AntonYad/github-readme-stats&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![AntonYad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYad&hide=contribs,prstheme=radical)
+![AntonYad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYad&show_icons=true&theme=radical)
+![AntonYad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYad&count_private=truetheme=radical)
+![AntonYad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonYad&show_icons=true&theme=radical)
 
