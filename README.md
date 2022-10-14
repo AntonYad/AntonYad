@@ -1,8 +1,8 @@
-- 👋 一个大学生
+- 👋 社会人
 - 👀 一直在学习技术，努力丰富自己
 - 🌱 刷题ing
 - 💞️ 平时会更新博客，和上传代码
-- 📫 想进大厂，有机会内推我
+- 📫 健身
 
 <!---
 AntonYad/AntonYad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
